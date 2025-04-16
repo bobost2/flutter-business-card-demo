@@ -1,16 +1,17 @@
-# business_card_design
+# Business Card Flutter Course Assignment
+The task for this assignment was to recreate this card from this screenshot:
 
-A new Flutter project.
+![Business Card Example](git-images/business-card-design.png)
 
-## Getting Started
+## Task Requirements:
+The card must include the following components:
+- Card
+- InkWell
 
-This project is a starting point for a Flutter application.
+The card also needs to be responsive (to be able to scale down properly on smaller displays).
 
-A few resources to get you started if this is your first Flutter project:
+## The results:
+This is my recreation of this card:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Business Card Replica](git-images/business-card-replica.png)
+> I've even recreated the logo in Photoshop, since it was kinda blurry on the example image.
